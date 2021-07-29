@@ -13,11 +13,11 @@ Allows for lookup of benches according to seating and location. Can create bench
 
 ## Tech Stack
 
- - React
- - Javascript
- - Rails
- - GoogleMaps API
- - AWS for image hosting
+ - Frontend: React
+ - Database: Postgres
+ - Server-side framework: Rails
+ - Languages: Ruby, Javascript
+ - APIs: GoogleMaps, AWS for images
 
 
 ## Authors
